@@ -1,0 +1,12 @@
+module Commander {
+#pragma DCPS_DATA_TYPE "Commander::Command"
+#pragma DCPS_DATA_KEY "Commander::Command id"
+  struct Command {
+    string time;
+    long id;
+    string entityname;
+    string key;
+    string value;
+    long count;
+  };
+};

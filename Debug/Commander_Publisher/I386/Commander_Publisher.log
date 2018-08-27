@@ -1,0 +1,15 @@
+﻿Build started 8/20/2018 1:28:35 PM.
+     1>Project "S:\GUIDesign\CppOpenDDS\Commander_Publisher.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\CommandPublisher.exe" /INCREMENTAL /NOLOGO /LIBPATH:. /LIBPATH:S:\OpenDDS\ACE_wrappers\lib /LIBPATH:S:\OpenDDS\lib ACEd.lib TAOd.lib TAO_AnyTypeCoded.lib TAO_PortableServerd.lib TAO_CodecFactoryd.lib TAO_PId.lib TAO_BiDirGIOPd.lib OpenDDS_Dcpsd.lib OpenDDS_InfoRepoDiscoveryd.lib OpenDDS_Tcpd.lib iphlpapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\\publisher_exe.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CommandPublisher.lib" /MACHINE:X86 Debug\Commander_Publisher\I386\CommanderC.obj
+         Debug\Commander_Publisher\I386\CommanderS.obj
+         Debug\Commander_Publisher\I386\CommanderTypeSupportC.obj
+         Debug\Commander_Publisher\I386\CommanderTypeSupportImpl.obj
+         Debug\Commander_Publisher\I386\CommanderTypeSupportS.obj
+         Debug\Commander_Publisher\I386\Publisher.obj
+         Commander_Publisher.vcxproj -> S:\GUIDesign\CppOpenDDS\.\CommandPublisher.exe
+     1>Done Building Project "S:\GUIDesign\CppOpenDDS\Commander_Publisher.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.69
